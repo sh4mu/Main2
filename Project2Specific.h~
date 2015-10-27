@@ -1,0 +1,4 @@
+class Project1Specific
+{
+	void doesLotsOfStuff(int doCode);
+};
